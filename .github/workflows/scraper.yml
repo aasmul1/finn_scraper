@@ -30,6 +30,11 @@ jobs:
       - name: Run Monitor
         run: node src/daily_monitor.js
 
+      - name: Enrich new ads with Claude
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node src/enrich_ads.js
+
       - name: Convert JSON to CSV
         run: node src/convert_to_csv.js
 

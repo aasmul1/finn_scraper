@@ -14,6 +14,11 @@ const COLUMNS = [
   "merke",
   "kjonn",
   "sykkeltype",
+  "brand",
+  "model",
+  "year",
+  "framesize",
+  "groupset",
   "description",
   "location",
 ];
@@ -50,8 +55,13 @@ function toRow(ad) {
     merke: ad.merke,
     kjonn: ad.kjonn,
     sykkeltype: ad.sykkeltype,
+    brand:       ad.brand,
+    model:       ad.model,
+    year:        ad.year,
+    framesize:   ad.framesize,
+    groupset:    ad.groupset,
     description: cleanText(ad.description),
-    location: ad.location,
+    location:    ad.location,
   };
   return COLUMNS.map((col) => escapeField(row[col])).join(",");
 }
