@@ -4,8 +4,8 @@ const fs = require("fs");
 const BASE_URL =
   "https://www.finn.no/recommerce/forsale/search?bikes_type=3&price_from=5000&price_to=55000&sub_category=1.69.3963";
 
-const URL_FILE = "ad_urls.json";
-const DATA_FILE = "finn_ad_data.json";
+const URL_FILE = "../data/ad_urls.json";
+const DATA_FILE = "../data/finn_ad_data.json";
 
 // ---- scrapeDetailPage must exist in this file ----
 // Make sure your working scrapeDetailPage function is pasted above runMonitor()

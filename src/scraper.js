@@ -16,7 +16,7 @@ const fs = require("fs");
 const path = require("path");
 
 const DEFAULT_URL = "https://www.finn.no/recommerce/forsale/item/450736924";
-const DEFAULT_OUTPUT = "finn_ad_data.json";
+const DEFAULT_OUTPUT = "../data/finn_ad_data.json";
 
 function parseArgs() {
   const args = process.argv.slice(2);

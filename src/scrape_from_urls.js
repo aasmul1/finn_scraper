@@ -3,8 +3,8 @@ const fs = require("fs");
 const path = require("path");
 
 // change if needed
-const URL_FILE = "ad_urls.json";
-const OUTPUT = "finn_ad_data.json";
+const URL_FILE = "../data/ad_urls.json";
+const OUTPUT = "../data/finn_ad_data.json";
 
 async function scrapeDetailPage(page, url) {
 

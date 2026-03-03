@@ -2,7 +2,7 @@ const { chromium } = require("playwright");
 const fs = require("fs");
 
 const BASE_URL = process.argv[2];
-const OUTPUT = "ad_urls.json";
+const OUTPUT = "../data/ad_urls.json";
 
 function loadExisting() {
   if (!fs.existsSync(OUTPUT)) return [];
