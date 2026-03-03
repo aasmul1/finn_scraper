@@ -48,10 +48,8 @@ async function extractDetails(ad) {
     output_config: {
       format: {
         type: "json_schema",
-        json_schema: {
-          name: "bike_details",
-          schema: BIKE_SCHEMA,
-        },
+        name: "bike_details",
+        schema: BIKE_SCHEMA,
       },
     },
   });
