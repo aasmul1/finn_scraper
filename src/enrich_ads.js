@@ -6,17 +6,21 @@ const DATA_FILE = path.join(__dirname, "../data/finn_ad_data.json");
 
 const client = new Anthropic();
 
-// JSON schema Claude must conform to — empty string for unknown fields
+// JSON schema Claude must conform to — empty string for unknown string fields
 const BIKE_SCHEMA = {
   type: "object",
   properties: {
-    brand:     { type: "string", description: "Bicycle brand / manufacturer, e.g. Canyon, Trek, Specialized" },
-    model:     { type: "string", description: "Bicycle model name, e.g. Aeroad CF SLX 8.0 Di2" },
-    year:      { type: "string", description: "Year of manufacture as 4-digit string, e.g. 2021. Empty if unknown." },
-    framesize: { type: "string", description: "Frame size, e.g. L, 56cm, Medium, 54. Empty if unknown." },
-    groupset:  { type: "string", description: "Drivetrain groupset, e.g. Shimano Ultegra Di2, SRAM Force eTap. Empty if unknown." },
+    brand:              { type: "string",  description: "Bicycle brand / manufacturer, e.g. Canyon, Trek, Specialized" },
+    model:              { type: "string",  description: "Bicycle model name, e.g. Aeroad CF SLX 8.0 Di2" },
+    year:               { type: "string",  description: "Year of manufacture as 4-digit string, e.g. 2021. Empty if unknown." },
+    framesize:          { type: "string",  description: "Frame size, e.g. L, 56cm, Medium, 54. Empty if unknown." },
+    wheel_size:         { type: "string",  description: "Wheel size, e.g. 700c, 29\", 27.5\". Empty if unknown." },
+    groupset:           { type: "string",  description: "Drivetrain groupset, e.g. Shimano Ultegra Di2, SRAM Force eTap. Empty if unknown." },
+    carbon_frame:       { type: "boolean", description: "True if the frame is explicitly stated to be carbon fibre." },
+    carbon_wheels:      { type: "boolean", description: "True if the wheels / rims are explicitly stated to be carbon." },
+    electronic_shifting:{ type: "boolean", description: "True if the gearing / shifting is electronic (Di2, eTap, EPS, AXS, etc.)." },
   },
-  required: ["brand", "model", "year", "framesize", "groupset"],
+  required: ["brand", "model", "year", "framesize", "wheel_size", "groupset", "carbon_frame", "carbon_wheels", "electronic_shifting"],
   additionalProperties: false,
 };
 
@@ -27,7 +31,7 @@ function sleep(ms) {
 async function extractDetails(ad) {
   const response = await client.messages.create({
     model: "claude-opus-4-6",
-    max_tokens: 256,
+    max_tokens: 512,
     system:
       "You are an expert at parsing Norwegian bicycle classified ads. " +
       "Extract the requested fields from the title and description. " +
@@ -58,8 +62,8 @@ async function extractDetails(ad) {
 async function main() {
   const ads = JSON.parse(fs.readFileSync(DATA_FILE, "utf-8"));
 
-  // Only process ads that haven't been enriched yet
-  const toProcess = ads.filter((ad) => ad.brand === undefined);
+  // Process ads missing any field from the current schema
+  const toProcess = ads.filter((ad) => ad.carbon_frame === undefined);
 
   console.log(
     `Enriching ${toProcess.length} ads (${ads.length - toProcess.length} already done)...`
@@ -80,8 +84,11 @@ async function main() {
       enriched++;
     } catch (err) {
       console.error(`Failed to enrich ${ad.ad_id}: ${err.message}`);
-      // Mark with empty values so we skip this ad on the next run
-      Object.assign(ad, { brand: ad.merke || "", model: "", year: "", framesize: "", groupset: "" });
+      // Mark with empty/false values so we skip this ad on the next run
+      Object.assign(ad, {
+        brand: ad.merke || "", model: "", year: "", framesize: "", wheel_size: "", groupset: "",
+        carbon_frame: false, carbon_wheels: false, electronic_shifting: false,
+      });
       failed++;
     }
 
