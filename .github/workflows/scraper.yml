@@ -25,7 +25,7 @@ jobs:
         run: npx playwright install --with-deps
 
       - name: Run Monitor
-        run: node src/monitor.js
+        run: node src/daily_monitor.js
 
       - name: Commit updated data
         run: |
