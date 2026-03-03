@@ -1,11 +1,12 @@
 const { chromium } = require("playwright");
 const fs = require("fs");
+const path = require("path");
 
 const BASE_URL =
   "https://www.finn.no/recommerce/forsale/search?bikes_type=3&price_from=5000&price_to=55000&sub_category=1.69.3963";
 
-const URL_FILE = "../data/ad_urls.json";
-const DATA_FILE = "../data/finn_ad_data.json";
+const URL_FILE = path.join(__dirname, "../data/ad_urls.json");
+const DATA_FILE = path.join(__dirname, "../data/finn_ad_data.json");
 
 // ---- scrapeDetailPage must exist in this file ----
 // Make sure your working scrapeDetailPage function is pasted above runMonitor()
@@ -134,8 +135,23 @@ async function runMonitor() {
   const existingAds = loadJSON(DATA_FILE);
   const scrapedIds = new Set(existingAds.map((a) => a.ad_id));
 
-  const browser = await chromium.launch({ headless: true });
-  const page = await browser.newPage();
+  const browser = await chromium.launch({
+    headless: true,
+    args: ["--disable-blink-features=AutomationControlled"],
+  });
+
+  const context = await browser.newContext({
+    userAgent:
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    locale: "nb-NO",
+    viewport: { width: 1280, height: 900 },
+  });
+
+  await context.addInitScript(
+    "Object.defineProperty(navigator, 'webdriver', { get: () => undefined });"
+  );
+
+  const page = await context.newPage();
 
   let pageNumber = 1;
   let newUrls = [];
