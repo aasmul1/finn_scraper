@@ -1,0 +1,1346 @@
+[
+  {
+    "data": {
+      "ad_id": "451994669",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Giant TCR Advance, Full karbon landeveissykkel</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1481 Hagan</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">15,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">24,925 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-39.8%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Giant</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">S</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Carbon wheels</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/451994669\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Giant TCR Advance, Full karbon landeveissykkel",
+      "price_nok": 15000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/451994669"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.6018019266124492,
+        "result": [
+          {
+            "id": "pred_451994669",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "417351925",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Specialized Tarmac sl2 s-works</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1591 Sperrebotn</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">11,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">10,985 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#6b7280\">+0.1%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Specialized</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Dura-Ace</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">56</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/417351925\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Specialized Tarmac sl2 s-works",
+      "price_nok": 11000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/417351925"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.9986865761863595,
+        "result": [
+          {
+            "id": "pred_417351925",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "355713859",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Gavia Terra LTD Carbon Grusracer - Mye sykkel for pengene!</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">Karenslyst Allé 36, 0278 Oslo</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">29,999 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,869 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+31.2%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/355713859\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Gavia Terra LTD Carbon Grusracer - Mye sykkel for pengene!",
+      "price_nok": 29999,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/355713859"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.6882356608532048,
+        "result": [
+          {
+            "id": "pred_355713859",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "454277899",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Bianchi Oltre Comp landeveissykkel str 55</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1592 Våler i Østfold</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">47,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">41,594 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+13.0%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Bianchi</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano 105 Di2</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">55</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Carbon wheels &nbsp;|&nbsp; ✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/454277899\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Bianchi Oltre Comp landeveissykkel str 55",
+      "price_nok": 47000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/454277899"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.8700490690958609,
+        "result": [
+          {
+            "id": "pred_454277899",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "455612199",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">BXT SL 115 Carbon Ultegra R8000 str. 54</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">7018 Trondheim</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">30,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">17,264 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+73.8%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Som ny - Ikke synlig brukt</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">BXT</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra R8000</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">54cm</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Carbon wheels</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/455612199\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "BXT SL 115 Carbon Ultegra R8000 str. 54",
+      "price_nok": 30000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/455612199"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.2623589156486119,
+        "result": [
+          {
+            "id": "pred_455612199",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "439846535",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Ridley fenix slic, størrelse L, ultegra di2</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">4250 Kopervik</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">30,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">35,558 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-15.6%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Ridley</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra Di2</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">L</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Carbon wheels &nbsp;|&nbsp; ✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/439846535\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Ridley fenix slic, størrelse L, ultegra di2",
+      "price_nok": 30000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/439846535"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.8436702159037768,
+        "result": [
+          {
+            "id": "pred_439846535",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "429428939",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Retro/vintage kupp - et lite smykke av en sykkel</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">3513 Hønefoss</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">15,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">10,820 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+38.6%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Netroh</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Campagnolo Record</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/429428939\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Retro/vintage kupp - et lite smykke av en sykkel",
+      "price_nok": 15000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/429428939"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.613767955585703,
+        "result": [
+          {
+            "id": "pred_429428939",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "407632986",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Ny pris Meget pen s-works med di 2.</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">4821 Rykene</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">20,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">27,168 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-26.4%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Specialized</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Dura-Ace Di2</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">56</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Carbon wheels &nbsp;|&nbsp; ✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/407632986\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Ny pris Meget pen s-works med di 2.",
+      "price_nok": 20000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/407632986"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.7361374851775051,
+        "result": [
+          {
+            "id": "pred_407632986",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "451481428",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">SOM NY! DARE MA/AFO Ultegra di2 2X12 | Size M/54 | |</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1482 Nittedal</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">34,500 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,869 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+50.9%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/451481428\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "SOM NY! DARE MA/AFO Ultegra di2 2X12 | Size M/54 | |",
+      "price_nok": 34500,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/451481428"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.491420724005319,
+        "result": [
+          {
+            "id": "pred_451481428",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "444757208",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Ønsker å kjøpe: Canyon Ultimate CF Young Hero – pent brukt, størrelse 2XS</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1389 Heggedal</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">15,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">11,277 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+33.0%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Canyon</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">2XS</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/444757208\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Ønsker å kjøpe: Canyon Ultimate CF Young Hero – pent brukt, størrelse 2XS",
+      "price_nok": 15000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/444757208"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.6699567917799174,
+        "result": [
+          {
+            "id": "pred_444757208",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "452078793",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Giant Tcr sl0 str M/L</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">3158 Andebu</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">34,500 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">38,595 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-10.6%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Giant</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra Di2 12s</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">M/L</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Carbon wheels &nbsp;|&nbsp; ✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/452078793\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Giant Tcr sl0 str M/L",
+      "price_nok": 34500,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/452078793"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.8938916593592643,
+        "result": [
+          {
+            "id": "pred_452078793",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "411885154",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Koga Miyata – Retro racersykkel med stålbein og sjel!</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1389 Heggedal</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">5,500 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">9,290 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-40.8%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Koga Miyata</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano 600</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">56cm</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/411885154\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Koga Miyata – Retro racersykkel med stålbein og sjel!",
+      "price_nok": 5500,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/411885154"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.5920269775929563,
+        "result": [
+          {
+            "id": "pred_411885154",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "438286422",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Merida Ride Disc CF 7000 Karbon Ram Shimano Ultegra komponenter 59cm (L/XL)</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1365 Blommenholm</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">14,999 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">15,280 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#6b7280\">-1.8%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Som ny - Ikke synlig brukt</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Merida</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">59cm</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/438286422\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Merida Ride Disc CF 7000 Karbon Ram Shimano Ultegra komponenter 59cm (L/XL)",
+      "price_nok": 14999,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/438286422"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.9815579423972406,
+        "result": [
+          {
+            "id": "pred_438286422",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "452336080",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Biancho Carbon 928</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">2670 Otta</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">7,500 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">15,152 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-50.5%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Som ny - Ikke synlig brukt</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Bianchi</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/452336080\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Biancho Carbon 928",
+      "price_nok": 7500,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/452336080"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.4949828206157767,
+        "result": [
+          {
+            "id": "pred_452336080",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "450574995",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">PENT BRUKT - Trek Madone SL 6 Ultegra | Ultegra 2x11 - Size 58 |</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1482 Nittedal</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">25,750 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,504 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+14.4%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/450574995\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "PENT BRUKT - Trek Madone SL 6 Ultegra | Ultegra 2x11 - Size 58 |",
+      "price_nok": 25750,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/450574995"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.855773375780114,
+        "result": [
+          {
+            "id": "pred_450574995",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "453260852",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Landeveissykling</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">3244 Sandefjord</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">8,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">14,204 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-43.7%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/453260852\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Landeveissykling",
+      "price_nok": 8000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/453260852"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.5631869340631297,
+        "result": [
+          {
+            "id": "pred_453260852",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "452444424",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Hard Rocx Road Race 3 – Full Dura-Ace & Ritchey Carbon</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">7027 Trondheim</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">9,900 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">11,964 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-17.3%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Hard Rocx</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Dura-Ace</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">M</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/452444424\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Hard Rocx Road Race 3 – Full Dura-Ace & Ritchey Carbon",
+      "price_nok": 9900,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/452444424"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.827440640136862,
+        "result": [
+          {
+            "id": "pred_452444424",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "434701251",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Bianchi Oltre Comp landeveissykkel str 55</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1526 Moss</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">50,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">36,350 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+37.5%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Bianchi</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano 105 Di2</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">55</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/434701251\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Bianchi Oltre Comp landeveissykkel str 55",
+      "price_nok": 50000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/434701251"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.6245137441165725,
+        "result": [
+          {
+            "id": "pred_434701251",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "454428424",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Dare VSRU</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">4354 Voll</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">46,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,504 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+104.4%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/454428424\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Dare VSRU",
+      "price_nok": 46000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/454428424"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.0,
+        "result": [
+          {
+            "id": "pred_454428424",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "423140643",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Cube Attain SLX goblin Green-Yellow. Prisgunstig landevei med godt utstyr!</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">0379 Oslo</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">17,790 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,504 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-20.9%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/423140643\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Cube Attain SLX goblin Green-Yellow. Prisgunstig landevei med godt utstyr!",
+      "price_nok": 17790,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/423140643"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.7905161803833697,
+        "result": [
+          {
+            "id": "pred_423140643",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "453447889",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Ridley karbon landeveissykkel</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">0590 Oslo</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">7,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">14,142 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-50.5%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Som ny - Ikke synlig brukt</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Ridley</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/453447889\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Ridley karbon landeveissykkel",
+      "price_nok": 7000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/453447889"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.49496848788093684,
+        "result": [
+          {
+            "id": "pred_453447889",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "407634107",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Merida Scultura 6000 *VINTERSALG*</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">Lilleåsgata 1, 3340 Åmot</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">34,999 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">21,481 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+62.9%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/407634107\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Merida Scultura 6000 *VINTERSALG*",
+      "price_nok": 34999,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/407634107"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.3707201313644427,
+        "result": [
+          {
+            "id": "pred_407634107",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "453125086",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Merckx landeveissykkel 28\"/700c rød</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1473 Lørenskog</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">12,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">21,846 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-45.1%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Merckx</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/453125086\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Merckx landeveissykkel 28\"/700c rød",
+      "price_nok": 12000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/453125086"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.5492925712471087,
+        "result": [
+          {
+            "id": "pred_453125086",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "442563968",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Bianchi Nirone 7 Alu&Carbon</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">6460 Eidsvåg i Romsdal</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">8,200 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">15,233 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-46.2%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Som ny - Ikke synlig brukt</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Bianchi</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra 2x10</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/442563968\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Bianchi Nirone 7 Alu&Carbon",
+      "price_nok": 8200,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/442563968"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.5382790110738624,
+        "result": [
+          {
+            "id": "pred_442563968",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "451139427",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">DARE VA-AFO 24/25 Di2 105</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">0382 Oslo</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">35,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">17,883 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+95.7%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Som ny - Ikke synlig brukt</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">DARE</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano 105 Di2</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">XXS</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/451139427\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "DARE VA-AFO 24/25 Di2 105",
+      "price_nok": 35000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/451139427"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.04283867901221894,
+        "result": [
+          {
+            "id": "pred_451139427",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "288031666",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Giant Propel Advanced 1 Landeveissykkel - Bestselger!</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">Karenslyst Allé 36, 0278 Oslo</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">54,999 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,200 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+147.7%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/288031666\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Giant Propel Advanced 1 Landeveissykkel - Bestselger!",
+      "price_nok": 54999,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/288031666"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.0,
+        "result": [
+          {
+            "id": "pred_288031666",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "453274680",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">RESERVERT: Trek Project One i fantastisk tilstand</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">4016 Stavanger</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">9,500 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">11,700 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-18.8%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Trek</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/453274680\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "RESERVERT: Trek Project One i fantastisk tilstand",
+      "price_nok": 9500,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/453274680"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.8119385684341187,
+        "result": [
+          {
+            "id": "pred_453274680",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "442892847",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Bianchi carbon landeveissykkel – 53 cm – Lett og rask, lit brukt</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1618 Fredrikstad</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">7,500 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">11,936 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-37.2%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Som ny - Ikke synlig brukt</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Bianchi</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">53cm</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/442892847\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Bianchi carbon landeveissykkel – 53 cm – Lett og rask, lit brukt",
+      "price_nok": 7500,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/442892847"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.6283196425646633,
+        "result": [
+          {
+            "id": "pred_442892847",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "450960135",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Cannondale Synapse Hi-Mod Disc Ultegra Di2 (2020) – Topp stand – Elektronisk gir</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">4316 Sandnes</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">30,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">32,572 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#6b7280\">-7.9%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Cannondale</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra Di2</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">56</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/450960135\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Cannondale Synapse Hi-Mod Disc Ultegra Di2 (2020) – Topp stand – Elektronisk gir",
+      "price_nok": 30000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/450960135"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.9210266424945143,
+        "result": [
+          {
+            "id": "pred_450960135",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "433550551",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Canningen Endurace CF SL</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">3050 Mjøndalen</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">19,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">12,384 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+53.4%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Canyon</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/433550551\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Canningen Endurace CF SL",
+      "price_nok": 19000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/433550551"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.4658028028275091,
+        "result": [
+          {
+            "id": "pred_433550551",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "449623080",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Vi kjøper din sykkel på 1-2-3</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">Husebybakken 28b, 0379 Oslo</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">10,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,200 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-55.0%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/449623080\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Vi kjøper din sykkel på 1-2-3",
+      "price_nok": 10000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/449623080"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.4504349952801099,
+        "result": [
+          {
+            "id": "pred_449623080",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "437350225",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Merida Reacto 9000 M/54</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">7017 Trondheim</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">52,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">31,411 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+65.5%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Merida</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra Di2</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">M/54</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Carbon wheels &nbsp;|&nbsp; ✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/437350225\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Merida Reacto 9000 M/54",
+      "price_nok": 52000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/437350225"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.3445351628342175,
+        "result": [
+          {
+            "id": "pred_437350225",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "326483429",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Ny Cipollini Ad one Limited Edition ramme str XL selges svært rimelig</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">7052 Trondheim</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">35,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">9,934 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+252.3%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Cipollini</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">XL</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/326483429\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Ny Cipollini Ad one Limited Edition ramme str XL selges svært rimelig",
+      "price_nok": 35000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/326483429"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.0,
+        "result": [
+          {
+            "id": "pred_326483429",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "437424136",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">SOLGT - Focus Parlane Ultegra | 35mm klaring - Size small |</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1482 Nittedal</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">14,500 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,869 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-36.6%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/437424136\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "SOLGT - Focus Parlane Ultegra | 35mm klaring - Size small |",
+      "price_nok": 14500,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/437424136"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.6340405652731269,
+        "result": [
+          {
+            "id": "pred_437424136",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "397924403",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Specialized Tarmac S-works Sl2 Saxobank</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">6514 Kristiansund N</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">13,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">18,123 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-28.3%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Specialized</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">SRAM Red / Force</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">56</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Carbon wheels</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/397924403\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Specialized Tarmac S-works Sl2 Saxobank",
+      "price_nok": 13000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/397924403"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.7172956402520967,
+        "result": [
+          {
+            "id": "pred_397924403",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "448069017",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Merida SCULTURA Endurance 6000 Karbon Di2</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">Sandebuktveien 114, 3077 Sande i Vestfold</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">32,900 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,200 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+48.2%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/448069017\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Merida SCULTURA Endurance 6000 Karbon Di2",
+      "price_nok": 32900,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/448069017"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.5180688655284386,
+        "result": [
+          {
+            "id": "pred_448069017",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "441888384",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Giant TCR Composite (2012) med Shimano Ultegra 6700</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">0483 Oslo</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">11,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">12,384 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-11.2%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Giant</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/441888384\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Giant TCR Composite (2012) med Shimano Ultegra 6700",
+      "price_nok": 11000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/441888384"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.8882194299419685,
+        "result": [
+          {
+            "id": "pred_441888384",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "442774539",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Cannondale Synapse str 56 m Di2 m utstyr</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">5151 Straumsgrend</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">19,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,837 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-16.8%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Cannondale</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra Di2</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">56</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/442774539\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Cannondale Synapse str 56 m Di2 m utstyr",
+      "price_nok": 19000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/442774539"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.8319749312816759,
+        "result": [
+          {
+            "id": "pred_442774539",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "454448100",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Cube Attain SL – Shimano 105 – Strøken – Nesten ikke brukt</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1626 Manstad</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">10,900 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">10,462 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#6b7280\">+4.2%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Som ny - Ikke synlig brukt</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Cube</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/454448100\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Cube Attain SL – Shimano 105 – Strøken – Nesten ikke brukt",
+      "price_nok": 10900,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/454448100"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.958230081293073,
+        "result": [
+          {
+            "id": "pred_454448100",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "421622587",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Lite Brukt Merida Reacto 6000 Di2 Str M</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">4324 Sandnes</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">32,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">28,495 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+12.3%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Merida</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano 105 Di2</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">M</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/421622587\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Lite Brukt Merida Reacto 6000 Di2 Str M",
+      "price_nok": 32000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/421622587"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.8770021220711853,
+        "result": [
+          {
+            "id": "pred_421622587",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "450476682",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Merida Race</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">Vålerveien 149, 1597 Moss</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">10,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,869 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-56.3%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/450476682\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Merida Race",
+      "price_nok": 10000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/450476682"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.43726935536077716,
+        "result": [
+          {
+            "id": "pred_450476682",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "433186903",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Trek Speed Consept 2.5 tempo/triatlon sykkel S</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">0768 Oslo</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">10,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">12,384 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-19.3%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Trek</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/433186903\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Trek Speed Consept 2.5 tempo/triatlon sykkel S",
+      "price_nok": 10000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/433186903"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.8074722090381532,
+        "result": [
+          {
+            "id": "pred_433186903",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "426173801",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Orbea Orca OMR M21 Team, Sram Force AXS</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">6530 Averøy</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">38,500 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">30,360 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+26.8%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Orbea</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">SRAM Force AXS</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">57cm</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/426173801\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Orbea Orca OMR M21 Team, Sram Force AXS",
+      "price_nok": 38500,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/426173801"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.7319253364431355,
+        "result": [
+          {
+            "id": "pred_426173801",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "450289972",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">SOM NY! Superior Racer Allround X-road Comp - Veilpris 15 900,- | XL |</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1482 Nittedal</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">11,500 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,504 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-48.9%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/450289972\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "SOM NY! Superior Racer Allround X-road Comp - Veilpris 15 900,- | XL |",
+      "price_nok": 11500,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/450289972"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.5110138321758713,
+        "result": [
+          {
+            "id": "pred_450289972",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "435176271",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Ridley Noah Fast Disc Di2 | Size small |</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1482 Nittedal</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">26,850 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">27,674 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#6b7280\">-3.0%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Ridley</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra Di2</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Small</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/435176271\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Ridley Noah Fast Disc Di2 | Size small |",
+      "price_nok": 26850,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/435176271"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.9702025059189114,
+        "result": [
+          {
+            "id": "pred_435176271",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "450336429",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">SPECIALIZED ALLEZ LANDEVEISSYKKEL/NYLIG SERVICE OG GARANTI/ 56 CM RAMME</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">Paulus Plass 3A Grünerløkka Oslo, 0554 Oslo</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">8,990 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">22,869 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#22c55e\">-60.7%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/450336429\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "SPECIALIZED ALLEZ LANDEVEISSYKKEL/NYLIG SERVICE OG GARANTI/ 56 CM RAMME",
+      "price_nok": 8990,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/450336429"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.3931051504693386,
+        "result": [
+          {
+            "id": "pred_450336429",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "good_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "452658781",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Ubrukt Rynkeby Bianchi landeveissykkel 53 cm 2026</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">4306 Sandnes</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">21,000 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">17,977 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+16.8%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Helt ny - Uåpnet/med lapp</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Bianchi</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano 105 12-speed</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">53 cm</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">—</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/452658781\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Ubrukt Rynkeby Bianchi landeveissykkel 53 cm 2026",
+      "price_nok": 21000,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/452658781"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.8318858655147763,
+        "result": [
+          {
+            "id": "pred_452658781",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "ok_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "ad_id": "455399643",
+      "html": "\n<div style=\"font-family:sans-serif;max-width:680px;border:1px solid #e2e8f0;\n            border-radius:10px;padding:20px;background:#fafafa\">\n\n  <h2 style=\"margin:0 0 4px;font-size:18px;color:#1e293b\">Merida Reacto - aero racer - full karbon - M / 52cm - Di2 Ultegra</h2>\n  <p style=\"margin:0 0 14px;color:#64748b;font-size:13px\">1415 Oppegård</p>\n\n  <div style=\"display:flex;gap:24px;margin-bottom:14px\">\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Asking price</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">29,500 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Model expected</div>\n      <div style=\"font-size:22px;font-weight:700;color:#1e293b\">23,393 NOK</div>\n    </div>\n    <div>\n      <div style=\"font-size:11px;text-transform:uppercase;color:#94a3b8;letter-spacing:.5px\">Deviation</div>\n      <div style=\"font-size:22px;font-weight:700;color:#ef4444\">+26.1%</div>\n    </div>\n  </div>\n\n  <table style=\"border-collapse:collapse;width:100%;font-size:14px;margin-bottom:16px\">\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Condition</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Pent brukt - I god stand</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Brand</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Merida</td>\n    </tr>\n    <tr>\n      <td style=\"padding:6px 10px;color:#64748b\">Groupset</td>\n      <td style=\"padding:6px 10px;font-weight:600\">Shimano Ultegra Di2</td>\n      <td style=\"padding:6px 10px;color:#64748b\">Frame size</td>\n      <td style=\"padding:6px 10px;font-weight:600\">52cm</td>\n    </tr>\n    <tr style=\"background:#f1f5f9\">\n      <td style=\"padding:6px 10px;color:#64748b\">Upgrades</td>\n      <td colspan=\"3\" style=\"padding:6px 10px;font-weight:600\">✓ Carbon frame &nbsp;|&nbsp; ✓ Carbon wheels &nbsp;|&nbsp; ✓ Electronic shifting</td>\n    </tr>\n  </table>\n\n  <a href=\"https://www.finn.no/recommerce/forsale/item/455399643\" target=\"_blank\"\n     style=\"display:inline-block;background:#0f172a;color:white;padding:9px 18px;\n            border-radius:6px;text-decoration:none;font-size:14px;font-weight:600\">\n    🔗 Open on Finn.no (photos &amp; full description)\n  </a>\n</div>\n",
+      "title": "Merida Reacto - aero racer - full karbon - M / 52cm - Di2 Ultegra",
+      "price_nok": 29500,
+      "source_url": "https://www.finn.no/recommerce/forsale/item/455399643"
+    },
+    "predictions": [
+      {
+        "model_version": "xgb_price_regression_v1",
+        "score": 0.7389500540229321,
+        "result": [
+          {
+            "id": "pred_455399643",
+            "type": "choices",
+            "from_name": "deal",
+            "to_name": "listing",
+            "value": {
+              "choices": [
+                "bad_deal"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

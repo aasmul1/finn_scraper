@@ -31,7 +31,7 @@ function buildPageUrl(baseUrl, pageNumber) {
 }
 
 async function scrapeListingPage(page, url) {
-  await page.goto(url, { waitUntil: "networkidle" });
+  await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
 
   const links = page.locator(
     'a[href*="/recommerce/forsale/item/"]'
